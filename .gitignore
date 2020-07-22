@@ -1,0 +1,4 @@
+results-*.csv
+report-*
+jmeter.log
+*.png
